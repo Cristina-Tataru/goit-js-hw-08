@@ -1,5 +1,23 @@
 {
+  "name": "goit-js-hw-08",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+  },
+  "author": "Tataru Cristina",
+  "license": "ISC",
   "dependencies": {
+    "@vimeo/player": "^2.23.0",
+    "lodash.throttle": "^4.1.1",
     "simplelightbox": "^2.14.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0",
+    "parcel-reporter-clean-dist": "^1.0.4",
+    "posthtml-include": "^1.7.4"
   }
 }
