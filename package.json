@@ -5,7 +5,6 @@
   "homepage": "https://cristina-tataru.github.io/goit-js-hw-08/",
   "main": "index.js",
   "scripts": {
-    "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "author": "Tataru Cristina",
