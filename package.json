@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "test",
   "homepage": "https://cristina-tataru.github.io/goit-js-hw-08/",
-  "main": "index.js",
   "scripts": {
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
