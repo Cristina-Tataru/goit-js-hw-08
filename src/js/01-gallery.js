@@ -1,5 +1,6 @@
 // Add imports above this line
-import SimpleLightbox from 'simplelightbox';
+import SimpleLightbox from "simplelightbox";
+// Add supplimentary css
 import 'simplelightbox/dist/simple-lightbox.min.css';
 import { galleryItems } from './gallery-items';
 
